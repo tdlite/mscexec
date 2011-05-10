@@ -1,0 +1,1 @@
+F:\tdlite\bin\brcc32.exe main.rc
