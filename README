@@ -1,0 +1,7 @@
+MSCEXEC
+(c) Renaissance Insurance, 2011
+
+Starts compmgmt.msc to a remote computer.
+
+Usage:
+ mscexec.exe 192.168.0.1
